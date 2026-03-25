@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentsLab</string>
+    <string name="valeur">Valeur : %1$d</string>
+</resources>
